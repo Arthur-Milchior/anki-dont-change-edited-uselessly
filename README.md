@@ -1,4 +1,13 @@
 # "Edited" value not updated unless there is really an edition
+This add-on is depretaced !!!
+
+It seems it is correcting a bug I imagined and which never existed.
+
+I don't understand why.
+
+Keeping it online until I make sens of it.
+
+
 ## Rationale
 The value "edited" is supposed to show the last time a note was
 edited. The trouble here being that the card is assumed to be edited
